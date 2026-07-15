@@ -1,18 +1,21 @@
-# 👋 Hey, I'm Le Quyen
+<h1 align="center">Hi 👋 I'm Le Quyen</h1>
 
-```txt
-Learning by breaking. Growing by building.
-```
+<p align="center">
+Cybersecurity Student • Offensive Security Enthusiast • CTF Player
+</p>
 
-🎓 **Cybersecurity Student** @ HUFLIT
+<p align="center">
+<i>"Turning curiosity into cybersecurity skills."</i>
+</p>
 
-💚 Passionate about **Ethical Hacking** and **Offensive Security**.
+---
 
-Currently focused on:
+### 🧩 About Me
 
-⚔️ **Web & Network Pentesting**  
-🏴 **CTF Challenges**  
-🐧 **Linux • Networking • Ethical Hacking**  
+- 🎓 Cybersecurity Student @ **HUFLIT**
+- ⚔️ Interested in **Web & Network Pentesting**
+- 🏴 Learning through **CTFs & Hands-on Labs**
+- 🐧 Exploring **Linux, Networking & Ethical Hacking**
 
 📫 **htlequyen21@gmail.com**
 
