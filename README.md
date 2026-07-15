@@ -5,7 +5,8 @@ Cybersecurity Student • Offensive Security Enthusiast • CTF Player
 </p>
 
 <p align="center">
-<i>"Turning curiosity into cybersecurity skills."</i>
+<i>"Great things are not done by impulse, but by a series of small things brought together."</i><br>
+<sub>— Vincent van Gogh</sub>
 </p>
 
 ---
