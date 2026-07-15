@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>I'm a passionate **Cybersecurity** student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages and Information Technology).<br><br>My name is **Le Quyen**. Aspiring Ethical Hacker and Security Researcher with a strong focus on offensive security, penetration testing, and threat hunting.<br><br>- 🔭 Currently focusing on: Web & Network Penetration Testing, CTF challenges<br>- 🌱 Learning: Malware Analysis, Cloud Security, and Exploit Development<br>- 💬 Ask me about: Cybersecurity, Ethical Hacking, Linux<br>- 📫 How to reach me: htlequyen21@gmail.com
+I'm a passionate **Cybersecurity** student at **HUFLIT** (Ho Chi Minh City University of Foreign Languages and Information Technology).<br><br>My name is **Le Quyen**. Aspiring Ethical Hacker and Security Researcher with a strong focus on offensive security, penetration testing, and threat hunting.<br><br>- 🔭 Currently focusing on: Web & Network Penetration Testing, CTF challenges<br>- 🌱 Learning: Malware Analysis, Cloud Security, and Exploit Development<br>- 💬 Ask me about: Cybersecurity, Ethical Hacking, Linux<br>- 📫 How to reach me: htlequyen21@gmail.com
 
 
 # 💻 Tech Stack:
